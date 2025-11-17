@@ -27,8 +27,6 @@ Python | Scikit-learn | Pandas | NLP | Flask / Streamlit | HTML/CSS | Machine Le
 
 💬 Perfect for beginners, students, and ML enthusiasts who want to see a full project from scratch. By the end, you’ll have a working AI chatbot deployed on the web, ready to impress in your portfolio.
 
-🔔 Subscribe: @souvikchai for more AI, ML, and Python projects
-📢 Share: Tag your friends interested in Healthcare AI & Data Science!
 
 Open http://127.0.0.1:5000/ in your browser.
 
